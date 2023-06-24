@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kailashganesh.github.io/'
 languageCode = 'en-us'
 title = 'Kailash Ganesh'
 theme = 'ananke'
