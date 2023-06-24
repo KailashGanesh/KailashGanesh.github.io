@@ -12,3 +12,5 @@ Trying to get the CI/CD with Github action working.
 Btw, I love the hero image.
 
 testing CI / CD -- this is a change that should be live.
+
+so made an error in the install script of Hugo, should be fixed now.
