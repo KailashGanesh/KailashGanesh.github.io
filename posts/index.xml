@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kailash Ganesh</title>
+    <link>https://kailashganesh.github.io/posts/</link>
+    <description>Recent content in Posts on Kailash Ganesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2023 01:35:02 +0530</lastBuildDate><atom:link href="https://kailashganesh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empty Right Now</title>
+      <link>https://kailashganesh.github.io/posts/empty-right-now/</link>
+      <pubDate>Sun, 25 Jun 2023 01:35:02 +0530</pubDate>
+      
+      <guid>https://kailashganesh.github.io/posts/empty-right-now/</guid>
+      <description>Installed Hugo and got the site working, hopefully soon to be filled with content.
+Trying to get the CI/CD with Github action working.
+Btw, I love the hero image.</description>
+    </item>
+    
+  </channel>
+</rss>
