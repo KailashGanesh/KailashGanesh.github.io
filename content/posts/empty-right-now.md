@@ -10,3 +10,5 @@ Installed Hugo and got the site working, hopefully soon to be filled with conten
 Trying to get the CI/CD with Github action working.
 
 Btw, I love the hero image.
+
+testing CI / CD -- this is a change that should be live.
